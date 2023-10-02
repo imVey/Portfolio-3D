@@ -1,6 +1,10 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Inspired by a model, I created my first portfolio using React in Vite with HMR and a little ESLint.
+
+------------------------------
+
+To run this code you just need to open your terminal and write this command : npm run dev
 
 Currently, two official plugins are available:
 
