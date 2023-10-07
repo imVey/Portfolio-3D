@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Fast Learner",
       icon: creator,
     },
   ];
@@ -72,18 +72,18 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    {
+    /*{
       name: "TypeScript",
       icon: typescript,
-    },
+    },*/
     {
       name: "React JS",
       icon: reactjs,
     },
-    {
+    /*{
       name: "Redux Toolkit",
       icon: redux,
-    },
+    },*/
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -92,10 +92,10 @@ import {
       name: "Node JS",
       icon: nodejs,
     },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
+    /*{
+      name: "MySQL",
+      icon: mysql,
+    },*/
     {
       name: "Three JS",
       icon: threejs,
@@ -108,10 +108,10 @@ import {
       name: "figma",
       icon: figma,
     },
-    {
+    /*{
       name: "docker",
       icon: docker,
-    },
+    },*/
   ];
   
   const experiences = [
@@ -172,7 +172,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but he proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -180,7 +180,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I've never met a web developer who truly cares about their clients' success like Marwan does.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -188,7 +188,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Marwan optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
@@ -198,7 +198,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Garage V Parrot",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -207,7 +207,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "mysql",
           color: "green-text-gradient",
         },
         {
@@ -215,8 +215,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: carrent, //penser à changer les images pour montrer les projets dans les cards
+      source_code_link: "https://github.com/imVey/Projet-GarageVParrot",
     },
     {
       name: "Job IT",

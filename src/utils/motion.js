@@ -86,7 +86,7 @@ export const textVariant = (delay) => {
       },
     };
   };
-  styles.js
+  
   const styles = {
     paddingX: "sm:px-16 px-6",
     paddingY: "sm:py-16 py-6",
@@ -103,4 +103,4 @@ export const textVariant = (delay) => {
       "sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider",
   };
   
-  export { styles };
+  export { styles }; 
